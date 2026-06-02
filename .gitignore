@@ -1,0 +1,14 @@
+# Nerede olursa olsun bu devasa dosyaları yoksayar
+*.parquet
+*.json
+*.csv
+
+# Sadece 'output' klasörü içindeki haftalık veri klasörlerini engeller
+output/**/data/
+/data/
+/__pycache__/
+
+# Python sistem dosyaları
+__pycache__/
+.venv/
+
