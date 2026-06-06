@@ -349,20 +349,3 @@ Only derived feature CSVs (without IP columns) are shared in the `output/` direc
 
 ---
 
-<div align="center">
-
-## 👤 Author
-
-**Betül Sazak**
-Biruni University · Computer Engineering
-
-Advisor: **Dr. Özgür Koray Şahingöz**
-
----
-
-## 📄 License
-
-Code is released under the **MIT License**.
-Datasets are subject to their original source licenses.
-
-</div>
