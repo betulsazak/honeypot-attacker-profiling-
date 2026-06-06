@@ -13,7 +13,7 @@
 
 *Graduation Thesis — Biruni University, Department of Computer Engineering, Spring 2026*
 
-**[Overview](#-overview) · [Key Results](#-key-results) · [Pipeline](#-pipeline) · [Setup](#%EF%B8%8F-setup) · [Usage](#-usage) · [Architecture](#-lstm-architecture) · [License](#-license)**
+**[Overview](#-overview) · [Key Results](#-key-results) · [Pipeline](#-pipeline) · [Setup](#%EF%B8%8F-setup) · [Usage](#-usage) · [Architecture](#-lstm-architecture) **
 
 </div>
 
