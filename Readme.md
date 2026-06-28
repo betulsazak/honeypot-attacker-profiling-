@@ -244,16 +244,6 @@ honeypot-attacker-profiling/
 
 ---
 
-## ⚙️ Setup
-
-### Requirements
-
-| | Minimum | Recommended |
-|:--|:--|:--|
-| Python | 3.10+ | 3.12 |
-| RAM | 8 GB | 16 GB |
-| GPU | Not required | Optional (speeds up LSTM training) |
-| OS | Windows (WSL), Linux, macOS | Ubuntu 22.04+ (WSL or native) |
 
 ### Installation
 
