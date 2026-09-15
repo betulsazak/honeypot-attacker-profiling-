@@ -329,13 +329,5 @@ Only derived feature CSVs (without IP columns) are shared in the `output/` direc
 - SEQ_LEN was not optimized via systematic hyperparameter search
 - Class imbalance affects minority class performance
 
-## 🔮 Future Work
 
-- **T-Pot** integrated honeypot for simultaneous multi-layer data collection
-- **Transformer / Attention** based sequence models
-- **Real-time SOC integration** via Apache Kafka or Flink
-- **SMOTE / ADASYN** for class imbalance mitigation
-- **Active learning** with expert-in-the-loop labeling
-
----
 
